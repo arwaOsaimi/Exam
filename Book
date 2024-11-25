@@ -1,0 +1,15 @@
+using System;
+
+class Book{
+    public static void Main(string [] args){
+
+    String Title;
+    String Author;
+    double Price;
+
+    public void PrintDetails( string Title, string Author, double Price){
+    Console.WriteLine("Title:"+ Title , "Author" + Author , "Price:"+Price);
+
+    }
+    }
+}

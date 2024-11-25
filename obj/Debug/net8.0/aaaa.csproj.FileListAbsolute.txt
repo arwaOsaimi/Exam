@@ -1,0 +1,14 @@
+/Users/arwa/Desktop/CTest/aaaa/aaaa/bin/Debug/net8.0/aaaa
+/Users/arwa/Desktop/CTest/aaaa/aaaa/bin/Debug/net8.0/aaaa.deps.json
+/Users/arwa/Desktop/CTest/aaaa/aaaa/bin/Debug/net8.0/aaaa.runtimeconfig.json
+/Users/arwa/Desktop/CTest/aaaa/aaaa/bin/Debug/net8.0/aaaa.dll
+/Users/arwa/Desktop/CTest/aaaa/aaaa/bin/Debug/net8.0/aaaa.pdb
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/aaaa.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/aaaa.AssemblyInfoInputs.cache
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/aaaa.AssemblyInfo.cs
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/aaaa.csproj.CoreCompileInputs.cache
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/aaaa.dll
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/refint/aaaa.dll
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/aaaa.pdb
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/aaaa.genruntimeconfig.cache
+/Users/arwa/Desktop/CTest/aaaa/aaaa/obj/Debug/net8.0/ref/aaaa.dll
